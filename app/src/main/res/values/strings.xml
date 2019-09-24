@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Belajar SharecPrefence</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="paaword">password</string>
+    <string name="forgotpasswprd">forgot password ?</string>
+    <string name="dontHaveAcount">Don\'t Have Account?</string>
+    <string name="register">Daftar</string>
+    <string name="verypass">verifikasi kata sandi</string>
+    <string name="laki">Laki - laki</string>
+    <string name="cewek">Wanita</string>
+    <string name="email">email</string>
+    <string name="aggre">I agree with the policy and privacy</string>
+    <string name="succesRegister">Berhasil Mendaftar</string>
+    <string name="cautionSuscces">Kamu sekarang sudah memiliki akun, silahkan logi!</string>
+    <string name="acountNotRegist">Akun Tidak Terdaftar!</string>
+    <string name="pleaseRegister">Silahkan Register terlebih dahulu</string>
+    <string name="logout">Logout</string>
+</resources>
